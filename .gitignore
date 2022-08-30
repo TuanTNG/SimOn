@@ -1,0 +1,11 @@
+scripts/
+scripts_ann/
+scripts_activity/
+scripts_thumos/
+*.pyc
+ckpts/
+model/
+models/
+cache/
+log_the_training_output_epoch_-1/
+*.egg-info/
