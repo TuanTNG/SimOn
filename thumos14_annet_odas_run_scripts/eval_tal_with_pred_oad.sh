@@ -1,9 +1,9 @@
 OUT_OADS="./cache/currrent.pkl"
 rm $OUT_OADS
 python tools/ontal_evaluator.py \
-    --all_probs_file "models/thumos_anet_numlayer3_decoder_layer4_enc_stride_1_kv7/validation_results/test_0_all_probs.pkl" \
-    --ground_truth_cls "models/thumos_anet_numlayer3_decoder_layer4_enc_stride_1_kv7/validation_results/test_0_ground_truth_cls.pkl" \
-    --video_names_file "models/thumos_anet_numlayer3_decoder_layer4_enc_stride_1_kv7/validation_results/test_0_video_names.pkl" \
+    --all_probs_file "models/odas_thumos_anet_decoder_layer4_kv7/validation_results/test_0_all_probs.pkl" \
+    --ground_truth_cls "models/odas_thumos_anet_decoder_layer4_kv7/validation_results/test_0_ground_truth_cls.pkl" \
+    --video_names_file "models/odas_thumos_anet_decoder_layer4_kv7/validation_results/test_0_video_names.pkl" \
     --ambiguos_info "/DATASET/thumos14_feat/ambiguous_dict.pkl" \
     --out_preds_odas $OUT_OADS \
 
