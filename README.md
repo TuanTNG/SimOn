@@ -2,10 +2,6 @@
 
 This is the official implementation of the paper [SimOn: A Simple Framework for Online Temporal Action Localization](). We provide training code for SimOn w/o context generation (P) as it is a part of our future research. The released code is for On-TAL and ODAS tasks on THUMOS14 dataset.
 
-# SimOn: A Simple Framework for Online Temporal Action Localization
-
-- This is the official implementation of the paper [SimOn: A Simple Framework for Online Temporal Action Localization](). We provide the code for training On-TAL and ODAS tasks, training log and model checkpoint on THUMOS14 dataset.
-
 - For setting up the environment as well as dataset for training and testing, please checkout the `main` branch
 
 ### Train the model
