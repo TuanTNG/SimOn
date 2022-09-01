@@ -14,6 +14,8 @@ This is the official implementation of the paper [SimOn: A Simple Framework for 
 
 - Online Temporal Action Localization (On-TAL) aims to immediately provide action instances from untrimmed streaming videos. The model is not allowed to utilize future frames and any processing techniques to modify past predictions, making On-TAL much more challenging.
 
+https://user-images.githubusercontent.com/62212814/187816329-9a17f782-8ba9-415a-a787-838d482de8b8.mp4
+
 <div align="center">
   <img src="img/introduction.PNG" width="500px"/>
 </div>
