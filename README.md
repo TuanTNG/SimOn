@@ -2,10 +2,6 @@
 
 This is the official implementation of the paper [SimOn: A Simple Framework for Online Temporal Action Localization](). We provide training code for SimOn w/o context generation (P) as it is a part of our future research. The released code is for On-TAL and ODAS tasks on THUMOS14 dataset.
 
-
-https://user-images.githubusercontent.com/62212814/196906169-b614f43a-90e2-4779-86a3-327600f36a8d.mp4
-
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
@@ -18,7 +14,7 @@ https://user-images.githubusercontent.com/62212814/196906169-b614f43a-90e2-4779-
 
 - Online Temporal Action Localization (On-TAL) aims to immediately provide action instances from untrimmed streaming videos. The model is not allowed to utilize future frames and any processing techniques to modify past predictions, making On-TAL much more challenging.
 
-<!-- https://user-images.githubusercontent.com/62212814/187816329-9a17f782-8ba9-415a-a787-838d482de8b8.mp4 -->
+https://user-images.githubusercontent.com/62212814/196906169-b614f43a-90e2-4779-86a3-327600f36a8d.mp4
 
 <div align="center">
   <img src="img/introduction.PNG" width="500px"/>
