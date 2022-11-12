@@ -7,8 +7,8 @@ This is the official implementation of the paper [SimOn: A Simple Framework for 
 2. [Installation](#installation)
 3. [Dataset](#dataset)
 4. [Usage](#usage)
-5. [Citation](#citation)
-6. [Qualitative results](#qualitative_results)
+5. [Qualitative results](#qualitative_results)
+6. [Citation](#citation)
 
 ## Introduction
 
@@ -93,3 +93,14 @@ We provide qualitative results according to the various challenging conditions, 
 <div align="center">
   <img src="img/qualitative_results.jpg" width="max-width"/>
 </div>
+
+## Citation
+Please cite the paper in your publications if it helps your research:
+```
+@article{tang2022simon,
+  title={SimOn: A Simple Framework for Online Temporal Action Localization},
+  author={Tang, Tuan N and Park, Jungin and Kim, Kwonyoung and Sohn, Kwanghoon},
+  journal={arXiv preprint arXiv:2211.04905},
+  year={2022}
+}
+``` 
